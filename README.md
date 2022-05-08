@@ -1,7 +1,7 @@
 # token-dash
 https://ipfs.io/ipns/holy-disk-0584.on.fleek.co/
 
-A blockchain based game where play and claim GameTokens and NFTs on the rinkeby network.
+A blockchain based game where you can play and claim GameTokens and NFTs on the rinkeby network.
 The player guides a runner across a side-scrolling landscape, avoiding obstacles to achieve a higher score.
 
 # Overview of the user interface
