@@ -12,7 +12,7 @@ The player guides a runner across a side-scrolling landscape, avoiding obstacles
 
 ![Screenshot (1280)](https://user-images.githubusercontent.com/67197664/167314669-debf1b03-8a06-4d76-a5d0-f3d5e037d603.png)
 
-# NFT Won on Opensea(Test)
+# NFT Won on OpenSea(Test)
 
 ![Screenshot (1276)](https://user-images.githubusercontent.com/67197664/167314710-4d463b07-4455-4b02-bf81-6605f9ab74a4.png)
 
