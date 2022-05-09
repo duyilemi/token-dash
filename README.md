@@ -22,7 +22,7 @@ Solidity - ethereum smart contract language
 
 Hardhat - development framework
 
-Ether - library that interacts with ethereum nodes
+Ethers - library that interacts with ethereum nodes
 
 JavaScript - handle front end logic
 
